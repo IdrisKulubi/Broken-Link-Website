@@ -1,5 +1,13 @@
 # Deadlink-Hunter-Website🕵️
 
+
+## Prefer a different language?
+
+This README is available in multiple languages. Click below to switch:
+
+- 🇨🇳 [简体中文 (Simplified Chinese)](README-ZH-CN.md)
+- 🇧🇷 [Português Brasileiro](README-PT-BR.md)
+
 Deadlink-Hunter is an open-source project designed to find broken links in GitHub repositories (with future support for other platforms).
 The goal is to help maintainers keep their documentation clean, reliable, and frustration-free for readers.
 
@@ -79,16 +87,6 @@ To contribute:
 9.  Create a **Pull Request** from your repository’s branch to the `main` branch of the original repository.
 
 ⚠️ Heads up: PRs that are fully AI generated and not checked by a human won’t be accepted.
-
----
-
-## Contributors
-
-Thanks to all the amazing contributors who have helped make this project better! 🎉
-
-<a href="https://github.com/Deadlink-Hunter/Broken-Link-Website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Deadlink-Hunter/Broken-Link-Website" alt="Contributors" />
-</a>
 
 ---
 
@@ -176,3 +174,13 @@ This template comes with the following features:
 - `storybook` – starts storybook dev server
 - `storybook:build` – build production storybook bundle to `storybook-static`
 - `prettier:write` – formats all files with Prettier
+
+## Contributors
+
+Thanks to all the amazing contributors who have helped make this project better! 🎉
+
+<a href="https://github.com/Deadlink-Hunter/Broken-Link-Website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Deadlink-Hunter/Broken-Link-Website" alt="Contributors" />
+</a>
+
+---
