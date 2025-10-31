@@ -5,7 +5,8 @@
 
 ## Prefer a different language?
 
-This README is available in multiple languages. Click below to switch:
+This README is available in multiple languages. 
+Click below to switch:
 
 - 🇨🇳 [简体中文 (Simplified Chinese)](README-ZH-CN.md)
 - 🇧🇷 [Português Brasileiro](README-PT-BR.md)
@@ -45,7 +46,7 @@ In order to see the ui log in.
   - [Testing scripts](#testing-scripts)
   - [Other scripts](#other-scripts)
 
- 
+
 <p align="left"><a href="#top-btn">Go back to the top of page</a></p>
 
 
@@ -57,7 +58,7 @@ Yet, README files and docs often contain outdated or broken links – even in la
 But aren’t there already broken link checkers?
 There are — but most of them don’t look very good, their UIs are not user-friendly, and their broken link detection doesn’t cover all cases (for example, localhost:4000 is not actually broken).
 
-<p align="left"><a href="#top=btn">Go back to the top of the page</a></p>
+<p align="left"><a href="#top-btn">Go back to the top of the page</a></p>
 
 
 ## Contributing
@@ -69,8 +70,9 @@ To contribute:
 1.  **Fork** this repository to your own GitHub account.
 2.  **Clone** your fork locally:
     ```bash
-    git clone https://github.com/<your-username>/Deadlink-Hunter.git
-    cd Deadlink-Hunter
+    git clone https://github.com/<your-username>/Broken-Link-Website.git
+    cd Broken-Link-Website
+
     ```
 3. (Optional) Install pnpm package manager from this [link](https://pnpm.io/installation).
 4.  Install dependencies using **pnpm** (please do not use npm or yarn):
