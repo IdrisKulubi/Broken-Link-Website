@@ -160,6 +160,23 @@ The application will be available at `http://localhost`
 
 <p align="left"><a href="#top-btn">Go back to the top of the page</a></p>
 
+## API & Postman Collection
+
+The backend exposes a REST API for checking broken links.
+
+We generated a Postman collection based on the internal Swagger documentation to help you test the API locally.
+
+### 🔗 How to Use the Postman Collection
+
+1. Open [Postman](https://www.postman.com/)
+2. Click **Import**
+3. Select **File** and upload:
+
+    `./postman/broken-link-checker.postman_collection.json`
+
+> [Click here to download the file directly](./postman/brokenlink-checker.postman_collection.json)
+
+Make sure your backend server is running at `http://localhost:3000` (or adjust the base URL in Postman if needed).
 
 ## Mantine Vite template
 
@@ -202,6 +219,7 @@ This template comes with the following features:
 - `prettier:write` – formats all files with Prettier
 
 <p align="left"><a href="#top-btn">Go back to the top of the page</a></p>
+
 ## Contributors
 
 Thanks to all the amazing contributors who have helped make this project better! 🎉
